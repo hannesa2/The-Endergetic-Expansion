@@ -15,7 +15,7 @@ public final class EEEntityAttributes {
 				.createMutableAttribute(Attributes.ATTACK_DAMAGE, 7.0F)
 				.createMutableAttribute(Attributes.MAX_HEALTH, 40.0F)
 				.createMutableAttribute(Attributes.MOVEMENT_SPEED, 1.05F)
-				.createMutableAttribute(Attributes.ARMOR, 4.0F)
+				.createMutableAttribute(Attributes.ARMOR, 8.0F)
 				.createMutableAttribute(Attributes.FOLLOW_RANGE, 22.0F)
 				.createMutableAttribute(Attributes.KNOCKBACK_RESISTANCE, 0.6F)
 			.create()
