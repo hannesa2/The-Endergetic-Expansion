@@ -79,7 +79,7 @@ repositories {
 }
 
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.16.1-32.0.72'
+    minecraft 'net.minecraftforge:forge:1.16.3-34.1.5'
     implementation fg.deobf("curse.maven:abnormals-core:3072976")
 }
 
